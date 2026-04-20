@@ -93,7 +93,7 @@ app/src/main/java/com/roscosoft/inmovil/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ricardoruiz/Inmovil-app.git
+   git clone https://github.com/ruizricardo/Inmovil-app.git
    ```
 
 2. Open the project in Android Studio.
