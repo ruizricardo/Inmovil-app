@@ -4,11 +4,9 @@ An Android application for browsing and searching real estate listings (houses, 
 
 ---
 
-<!-- ## Screenshots
+<img width="1080" height="2220" alt="inmovil-home" src="https://github.com/user-attachments/assets/b1a868c6-bd85-4cb7-9acb-c3ce47537486" /> <img width="1080" height="2220" alt="Screenshot_20260505_182518" src="https://github.com/user-attachments/assets/2ab7ecb7-de35-42df-b589-9f1520ef9392" /> <img width="1080" height="2220" alt="Screenshot_20260505_182603" src="https://github.com/user-attachments/assets/70b779d6-d4a1-44ec-a70d-081fe94d9b97" /> <img width="1080" height="2220" alt="Screenshot_20260505_182718" src="https://github.com/user-attachments/assets/fd70a65f-63b3-4d7e-afc8-63f9720b80b4" />
 
-> _Add screenshots here_
 
---- -->
 
 ## Features
 
